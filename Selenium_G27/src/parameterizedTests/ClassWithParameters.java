@@ -26,9 +26,9 @@ public class ClassWithParameters {
 	@Parameters
     public static Collection<Object[]> testData() {
       Object[][] data = new Object[][] { 
-    	  {"A", 1}, 
-    	  {"B", 2}, 
-    	  {"C",3}
+    	  {"A", 11}, 
+    	  {"B", 22}, 
+    	  {"C",33}
       };
       return Arrays.asList(data);
     }
