@@ -1,0 +1,28 @@
+2017-10-05 12:56:04,632 INFO [main] db.TestDataBase.setUp(TestDataBase.java:24) - --- Test STARTED --------
+2017-10-05 12:56:04,634 INFO [main] db.TestDataBase.setUp(TestDataBase.java:25) - --- Connect MySQL DB --------
+2017-10-05 12:56:04,901 INFO [main] db.DataBase.<init>(DataBase.java:30) - Connection: com.mysql.jdbc.JDBC4Connection@3bbc39f8
+2017-10-05 12:56:04,902 INFO [main] db.TestDataBase.setUp(TestDataBase.java:27) - --- Connected to MySQL --------
+2017-10-05 12:56:04,908 INFO [main] db.TestDataBase.testRowsNumber(TestDataBase.java:72) - Result value is 31
+2017-10-05 12:56:04,910 INFO [main] db.TestDataBase.tearDown(TestDataBase.java:79) -  ----- Test FINISHED  -----
+2017-10-05 12:56:04,911 INFO [main] db.TestDataBase.setUp(TestDataBase.java:24) - --- Test STARTED --------
+2017-10-05 12:56:04,931 INFO [main] db.TestDataBase.setUp(TestDataBase.java:25) - --- Connect MySQL DB --------
+2017-10-05 12:56:04,968 INFO [main] db.DataBase.<init>(DataBase.java:30) - Connection: com.mysql.jdbc.JDBC4Connection@2145433b
+2017-10-05 12:56:04,968 INFO [main] db.TestDataBase.setUp(TestDataBase.java:27) - --- Connected to MySQL --------
+2017-10-05 12:56:04,976 INFO [main] db.TestDataBase.tearDown(TestDataBase.java:79) -  ----- Test FINISHED  -----
+2017-10-05 12:56:04,976 INFO [main] db.TestDataBase.setUp(TestDataBase.java:24) - --- Test STARTED --------
+2017-10-05 12:56:04,976 INFO [main] db.TestDataBase.setUp(TestDataBase.java:25) - --- Connect MySQL DB --------
+2017-10-05 12:56:05,018 INFO [main] db.DataBase.<init>(DataBase.java:30) - Connection: com.mysql.jdbc.JDBC4Connection@105fece7
+2017-10-05 12:56:05,019 INFO [main] db.TestDataBase.setUp(TestDataBase.java:27) - --- Connected to MySQL --------
+2017-10-05 12:56:05,025 INFO [main] db.TestDataBase.tearDown(TestDataBase.java:79) -  ----- Test FINISHED  -----
+2017-10-05 12:56:05,025 INFO [main] db.TestDataBase.setUp(TestDataBase.java:24) - --- Test STARTED --------
+2017-10-05 12:56:05,026 INFO [main] db.TestDataBase.setUp(TestDataBase.java:25) - --- Connect MySQL DB --------
+2017-10-05 12:56:05,065 INFO [main] db.DataBase.<init>(DataBase.java:30) - Connection: com.mysql.jdbc.JDBC4Connection@7d68ef40
+2017-10-05 12:56:05,066 INFO [main] db.TestDataBase.setUp(TestDataBase.java:27) - --- Connected to MySQL --------
+2017-10-05 12:56:05,070 INFO [main] db.TestDataBase.testValueExist(TestDataBase.java:65) - Result value is true
+2017-10-05 12:56:05,070 INFO [main] db.TestDataBase.tearDown(TestDataBase.java:79) -  ----- Test FINISHED  -----
+2017-10-05 12:56:05,071 INFO [main] db.TestDataBase.setUp(TestDataBase.java:24) - --- Test STARTED --------
+2017-10-05 12:56:05,072 INFO [main] db.TestDataBase.setUp(TestDataBase.java:25) - --- Connect MySQL DB --------
+2017-10-05 12:56:05,109 INFO [main] db.DataBase.<init>(DataBase.java:30) - Connection: com.mysql.jdbc.JDBC4Connection@25b485ba
+2017-10-05 12:56:05,109 INFO [main] db.TestDataBase.setUp(TestDataBase.java:27) - --- Connected to MySQL --------
+2017-10-05 12:56:05,113 INFO [main] db.TestDataBase.testSingleValue(TestDataBase.java:34) - Result value is Leo
+2017-10-05 12:56:05,114 INFO [main] db.TestDataBase.tearDown(TestDataBase.java:79) -  ----- Test FINISHED  -----
